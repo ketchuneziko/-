@@ -4,13 +4,16 @@
 `Натуральное звучание C Мажор.m4a`. Исходник не изменён.
 
 ## Скачать
-GitHub Release: https://github.com/ketchuneziko/-/releases/tag/rap-rebuild-v2
+Постоянная ссылка на версию: https://github.com/ketchuneziko/-/tree/rap-rebuild-v2/song
 
-- `rap_master.mp3` — основной мастер, 320 kbps
-- `rap_master.wav` — мастер 24-bit/44.1 kHz
-- `rap_instrumental.mp3` — минус
-- `rap_acapella.mp3` — обработанный вокал
-- `rap_stems_flac.zip` — раздельные партии: vocal / drums / 808 bass / music / fx & samples
+Прямые файлы:
+- MP3: https://raw.githubusercontent.com/ketchuneziko/-/rap-rebuild-v2/song/rap_master.mp3
+- WAV: https://raw.githubusercontent.com/ketchuneziko/-/rap-rebuild-v2/song/rap_master.wav
+- Минус: https://raw.githubusercontent.com/ketchuneziko/-/rap-rebuild-v2/song/rap_instrumental.mp3
+- Акапелла: https://raw.githubusercontent.com/ketchuneziko/-/rap-rebuild-v2/song/rap_acapella.mp3
+- Стемы FLAC: https://raw.githubusercontent.com/ketchuneziko/-/rap-rebuild-v2/song/rap_stems_flac.zip
+
+Стемы внутри архива: vocal / drums / 808 bass / music / fx & samples.
 
 ## Параметры
 - Стиль: dark boom-bap / trap hybrid
